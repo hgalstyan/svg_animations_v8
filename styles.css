@@ -195,7 +195,7 @@ transform: scale(.9);
 
 
 
-@media (min-width: 768px) {
+@media (min-width: 425px) {
   .svg-logo-text {
     display: block;
   }
